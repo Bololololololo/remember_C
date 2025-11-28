@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbolloc.a CMakeFiles/bolloc.dir/bolloc.c.o
+/usr/bin/ranlib libbolloc.a
