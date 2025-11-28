@@ -1,3 +1,0 @@
-/home/bololo/Work/C_recap/malloc/libbolloc/build/CMakeFiles/bolloc.dir
-/home/bololo/Work/C_recap/malloc/libbolloc/build/CMakeFiles/edit_cache.dir
-/home/bololo/Work/C_recap/malloc/libbolloc/build/CMakeFiles/rebuild_cache.dir

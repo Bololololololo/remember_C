@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/unit_tests.dir/unit_tests.cc.o -o unit_tests  lib/libgtest_main.a /home/bololo/Work/C_recap/malloc/unit_tests/../libbolloc/build/libbolloc.a lib/libgtest.a 

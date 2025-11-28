@@ -42,9 +42,7 @@ void* bolloc(size_t size) {
   struct block_meta* block;
   // TODO: align size?
 
-  fprintf(stderr, ">>>>>>>>> bolloc size: %zu\n", size);
-  if (size <= 0) {
-    fprintf(stderr, ">>>>>>>>> bolloc size <= 0\n");
+  if (size == 0) {
     return NULL;
   }
 
